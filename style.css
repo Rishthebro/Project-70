@@ -1,0 +1,10 @@
+ul {
+    list-style: none;
+    float: left;
+    margin: 0;
+    
+}
+.menu-list {
+    background-color: black;
+    width: 100%; 
+}
